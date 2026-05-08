@@ -106,9 +106,23 @@ __plugin_meta__ = {
 }
 ```
 
-#### 模块元数据
+## 📦 如何提交模块
 
-模块在 `main.py` 中声明 `__module_meta__`:
+### 第一步：准备你的模块仓库
+
+模块是一个独立的 GitHub 仓库，结构如下：
+
+```
+你的仓库/
+├── main.py              # 入口文件 (必须)
+├── app/                 # 子模块目录 (可选)
+├── data/                # 数据目录 (可选, 更新时保留)
+└── requirements.txt     # 额外依赖 (可选)
+```
+
+### 第二步：添加模块元数据
+
+在 `main.py` 中声明 `__module_meta__`：
 
 ```python
 __module_meta__ = {
@@ -119,9 +133,31 @@ __module_meta__ = {
 }
 ```
 
+### 第三步：提交 PR
+
+1. Fork 本仓库
+2. 编辑 `plugins.json`，添加你的模块信息
+3. 提交 Pull Request
+
+```json
+{
+  "name": "my_module",
+  "type": "module",
+  "author": "你的名字",
+  "description": "模块描述",
+  "version": "1.0.0",
+  "category": "分类",
+  "github": "https://github.com/你的用户名/你的仓库",
+  "branch": "main",
+  "tags": ["标签1"]
+}
+```
+
+> 安装时整个仓库内容会解压到 `modules/<name>/`，`data/` 目录在更新时不会被覆盖。
+
 ## 📋 提交规范
 
 - 额外 pip 依赖请在仓库中提供 `requirements.txt`
-- 插件代码必须包含 `__plugin_meta__`, 模块必须包含 `__module_meta__`
+- 插件代码必须包含 `__plugin_meta__`，模块必须包含 `__module_meta__`
 - 禁止提交恶意代码、违法内容
 

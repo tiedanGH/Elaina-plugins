@@ -37,7 +37,7 @@
     "type": "module",
     "author": "ElainaBot",
     "description": "统一图床上传 (COS / B站 / QQ频道 / ChatGLM / Ukaka / 星野 / Nature)",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "category": "服务",
     "github": "https://github.com/ElainaCore/ElainaBot_v2",
     "branch": "main",
