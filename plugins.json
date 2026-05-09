@@ -77,13 +77,13 @@
     "tags": ["OneBot", "适配器", "WebSocket"]
   },
   {
-    "name": "LGTBot 机器人",
+    "name": "LGTBot_ElainaBot",
     "type": "plugin",
     "author": "铁蛋",
-    "description": "基于 LGTBot C++ 引擎的游戏裁判机器人：提供多人桌游、竞技对战与自动裁判功能，让聊天室化身轻量级游戏竞技平台（仅支持Linux）",
-    "version": "1.0.0",
-    "category": "游戏bot",
-    "github": "https://github.com/tiedanGH/lgtbot-ElainaBot_v2",
+    "description": "基于 C++ 的 LGTBot 游戏裁判机器人：支持 50+ 种多人游戏，将聊天室打造成游戏竞技平台（仅Linux）",
+    "version": "1.1.0",
+    "category": "游戏",
+    "github": "https://github.com/tiedanGH/LGTBot_ElainaBot",
     "branch": "main",
     "tags": ["多人", "竞技", "桌游"]
   }
