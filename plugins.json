@@ -86,5 +86,16 @@
     "github": "https://github.com/tiedanGH/LGTBot_ElainaBot",
     "branch": "main",
     "tags": ["多人", "竞技", "桌游"]
+  },
+  {
+    "name": "冷曦小型插件合集",
+    "type": "plugin",
+    "author": "冷曦",
+    "description": "三角洲今日密码、全量申请、字符字、恶臭生成器、音乐点歌",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "github": "https://github.com/ElainaCore/elaina-plugins-lengxi",
+    "branch": "main",
+    "tags": ["娱乐", "工具", "音乐"]
   }
 ]
