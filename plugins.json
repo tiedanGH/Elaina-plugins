@@ -32,7 +32,7 @@
     "type": "plugin",
     "author": "冷曦",
     "description": "游戏查询插件基座：一键安装三角洲、终末地、洛克王国:世界等游戏查询插件",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "category": "游戏",
     "github": "https://github.com/Entropy-Increase-Team/elaina-plugin-Entropy_Base",
     "branch": "main",
