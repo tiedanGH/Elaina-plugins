@@ -154,7 +154,7 @@
     "type": "plugin",
     "author": "冷曦",
     "description": "生成群全量消息授权链接，免@处理指令",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "category": "工具",
     "github": "https://github.com/lengxi-root/elaina-plugins-lengxi",
     "branch": "main",
