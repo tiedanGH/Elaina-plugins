@@ -6,8 +6,9 @@
     "description": "框架内置系统插件, 提供基础信息、管理、查询、示例等功能",
     "version": "1.0.1",
     "category": "系统",
-    "github": "https://github.com/ElainaCore/elaina-plugin-system",
+    "github": "https://github.com/ElainaCore/ElainaBot_v2",
     "branch": "main",
+    "path": "plugins/system",
     "tags": [
       "系统",
       "管理",
