@@ -125,7 +125,7 @@
     "type": "module",
     "author": "Elaina",
     "description": "OneBot 11 协议适配器, 将消息/事件推送到外部机器人框架",
-    "version": "1.5.0",
+    "version": "2.0.0",
     "category": "适配器",
     "github": "https://github.com/ElainaCore/ElainaBot_v2",
     "branch": "main",
