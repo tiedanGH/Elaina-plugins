@@ -358,5 +358,20 @@
     "排行", 
     "回调按钮"
   ]
-}
+},
+{
+    "name": "主动推送",
+    "type": "complete",
+    "author": "冷曦",
+    "description": "向全量群或好友主动推送指定消息",
+    "version": "1.1.0",
+    "category": "工具",
+    "github": "https://github.com/lengxi-root/elaina-plugins-lengxi",
+    "branch": "main",
+    "path": "Active Push",
+    "tags": [
+      "主动",
+      "工具"
+    ]
+  },
 ]
