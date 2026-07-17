@@ -373,5 +373,20 @@
       "主动",
       "工具"
     ]
+  },
+  {
+    "name": "群管",
+    "type": "complete",
+    "author": "冷曦",
+    "description": "群管插件，违禁词，入群验证撤回等",
+    "version": "1.0.0",
+    "category": "工具",
+    "github": "https://github.com/lengxi-root/elaina-plugins-lengxi",
+    "branch": "main",
+    "path": "groupguard",
+    "tags": [
+      "工具",
+      "群管"
+    ]
   }
 ]
