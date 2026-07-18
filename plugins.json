@@ -394,7 +394,7 @@
     "type": "complete",
     "author": "冷曦",
     "description": "在ElainaBot v2上运行 AstrBot框架插件，Web 面板一键装/卸/配置/热重载",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "category": "工具",
     "github": "https://github.com/lengxi-root/elaina-plugins-lengxi",
     "branch": "main",
